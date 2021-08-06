@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: advanced-search-mngodb-criteria-predicate
+  data:
+    mongodb:
+      database: vinodh
+      host: localhost
+      port: 27017
+  jpa:
+    show-sql: true
+server:
+  port: 6062
+
+  
